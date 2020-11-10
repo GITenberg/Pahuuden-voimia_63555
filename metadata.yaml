@@ -1,5 +1,5 @@
 _repo: Pahuuden-voimia_63555
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Onde Magter. Finnish
 contributor:
   translator:
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '4411'
     url: http://www.gutenberg.org/2009/agents/4411
     wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lie, Jonas
@@ -25,6 +28,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Jonas_Lie
     - https://en.wikipedia.org/wiki/Jonas_Lie_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63555#Pahuuden-voimia
 gutenberg_issued: '2020-10-26'
 gutenberg_type: Text
 identifiers:
